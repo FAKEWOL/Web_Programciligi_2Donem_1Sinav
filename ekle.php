@@ -8,6 +8,7 @@
 </head>
 <body>
 <center>
+        //Bazı Yerler Hata Vermiş Kopyalayıp Yapıştırın Hata Çıkmaz
         <!-- Veri Eklemek İçin Form Sayfası-->
         <h3 style="text-align: center;">Yeni Kayıt Eklme Formu</h3>
         <form action="ekle_sonuc.php" method="post" name="kayit_formu">
