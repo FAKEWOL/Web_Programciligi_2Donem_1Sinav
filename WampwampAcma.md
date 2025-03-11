@@ -21,3 +21,5 @@
 ![w5](https://github.com/user-attachments/assets/6a6fceb8-1939-45c0-8f07-d9ebfec5ed00)
 
 <p>En Son Olarak Wamp Sekmesine Gelip "phpMyAdmin'e Tıklayın"</p>
+
+![w6](https://github.com/user-attachments/assets/407da957-c282-4ab3-9cda-c8f920e03104)
