@@ -1,4 +1,8 @@
-phpMyAdmin Veri Tabanı Ekleme <br>
+<h3>phpMyAdmin Veri Tabanı Ekleme</h3>
+<br>
+<p> Sol Üst Kısımdaki Yeni Yazısına Tıklayarak Yeni Veri Tabanı Oluşturunuz</p>
+
+
 ![1](https://github.com/user-attachments/assets/5b5e281c-6252-4a9c-a60f-f0a3cfafb861) <br>
 ![2](https://github.com/user-attachments/assets/642da94e-45d7-4e12-bb13-3b38a729ec4e) <br>
 ![3](https://github.com/user-attachments/assets/4d2c3859-989e-4b93-95e6-ecbd56ca3c63) <br>
