@@ -16,3 +16,9 @@
 <p>Veri Tabanı İsmi:127_0_0_1 Tıklayıp Veri Tabanına Aktarın</p>
 
 ![5](https://github.com/user-attachments/assets/f254964c-c04b-4c5d-83bf-e6d098360029)
+
+<p>Sonuc</p>
+
+![6](https://github.com/user-attachments/assets/f9c55cc0-a5d6-4c81-b2de-ae06e75b996f) <br>
+
+![7](https://github.com/user-attachments/assets/0e338301-708b-4151-9de0-3a44d6c89c4a)
