@@ -4,7 +4,7 @@
 <p>Sol Üst Kısımdaki Yeni Yazısına Tıklayarak Yeni Veri Tabanı Oluşturunuz</p>
 
 ![1](https://github.com/user-attachments/assets/5b5e281c-6252-4a9c-a60f-f0a3cfafb861) <br>
-<p>Veri Tabanını Oluşturmak İçin Veri Tabanına Bir İsim Veriniz</p>
+<p>Veri Tabanını Oluşturmak İçin Veri Tabanına Bir İsim Veriniz "Dersdb"</p>
 
 ![2](https://github.com/user-attachments/assets/642da94e-45d7-4e12-bb13-3b38a729ec4e) <br>
 <p>Veri Tabanını Oluşturduktan Sonra İçine Girip İçe Aktar'a Tıklayın</p>
