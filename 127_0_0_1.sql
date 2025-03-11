@@ -1,3 +1,5 @@
+--phpMyAdmin Sayfasına Yeni Veritabanı Oluşturup İçe Aktara Tıklayın ve Bu Dosyayı Yükleyin
+
 -- phpMyAdmin SQL Dump
 -- version 4.1.14
 -- http://www.phpmyadmin.net
