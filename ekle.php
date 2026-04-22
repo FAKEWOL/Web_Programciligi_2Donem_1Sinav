@@ -1,17 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Yeni Kayıt Eklme Formu</title>
 </head>
 <body>
 <center>
-        //Bazı Yerler Hata Vermiş Kopyalayıp Yapıştırın Hata Çıkmaz
-        <!-- Veri Eklemek İçin Form Sayfası-->
-        <h3 style="text-align: center;">Yeni Kayıt Eklme Formu</h3>
-        <form action="ekle_sonuc.php" method="post" name="kayit_formu">
+    <!-- Veri Eklemek İçin Form Sayfası-->
+    <h3 style="text-align: center;">Yeni Kayıt Eklme Formu</h3>
+    <form action="ekle_sonuc.php" method="post" name="kayit_formu">
         <table>
             <tr>
                 <td>Kitap Adi:</td>
@@ -31,13 +29,13 @@
             </tr>
             <tr>
                 <td>
-                <input type="submit" value="Kaydet" name="kaydet">
-                <input type="reset" value="Temizle" name="temizle">
-                <a href="index.php">kitap Listesi</a>
+                    <input type="submit" value="Kaydet" name="kaydet">
+                    <input type="reset" value="Temizle" name="temizle">
+                    <a href="index.php">Kitap Listesi</a>
                 </td>
             </tr>
         </table>
-        </form>
-    </center>
+    </form>
+</center>
 </body>
 </html>
