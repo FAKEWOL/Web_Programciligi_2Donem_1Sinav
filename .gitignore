@@ -1,0 +1,34 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific files
+# Since baglanti.php contains database credentials, 
+# it is recommended to use an environment file instead.
+.env
+.env.local
+.env.*.local
+
+# Wamp/XAMPP/Local server logs
+*.log
+logs/
+temp/
+
+# Backup files
+*.bak
+*.tmp
+*.old
+
+# Database exports (if you prefer not to track them)
+# 127_0_0_1.sql
