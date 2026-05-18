@@ -1,0 +1,14 @@
+{
+    "name": "book-management-system-php",
+    "description": "A simple web application for managing books using PHP and MySQL.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "Developer"
+        }
+    ]
+}
